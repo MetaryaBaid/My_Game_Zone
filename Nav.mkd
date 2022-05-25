@@ -1,2 +1,11 @@
 # Files and Folders in the Repository
 ---
+## Folders
+1. MyGameZone_v1_Setup : Contains setup file. Download it and run the setup to install and play the game.
+2. MyGameZone_v1_VS_sln : Contains Visual Studio solution and project files. Download it to see the complete code and play around with it.
+---
+## Files
+1. LICENSE : MIT License for the software.
+2. Nav.mkd : This file. Contents of the repository.
+---
+###### --MetaryaBaid
