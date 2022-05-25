@@ -1,0 +1,17 @@
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\bin\Debug\MyPracticeGame.exe.config
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\bin\Debug\MyPracticeGame.exe
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\bin\Debug\MyPracticeGame.pdb
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\bin\Debug\MyPracticeGame.xml
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyGameZone.vbprojAssemblyReference.cache
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.StartScreen.resources
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.TileMatchingGame4x4.resources
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.Resources.resources
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.TileMatchingGame6x6.resources
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.TileMatchingGames.resources
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyGameZone.vbproj.GenerateResource.cache
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyGameZone.vbproj.CoreCompileInputs.cache
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.exe
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.xml
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.pdb
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.TileMatchingGame8x8.resources
+C:\Users\metarya\Desktop\VisualStudio2019\TutorialsAndWork\MyPracticeGame\obj\Debug\MyPracticeGame.Thanks_For_Playing.resources

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MyGameZoneDemo_v1
+</name>
+</assembly>
+<members>
+<member name="T:MyGameZoneDemo_v1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MyGameZoneDemo_v1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MyGameZoneDemo_v1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:MyGameZoneDemo_v1.TileMatchingGame4x4.LabelClick(System.Object,System.EventArgs)">
+ <summary>
+ Handles the click event of labels.
+ Starts the timer if wrong pairs are clicked,
+ else calls the CheckAnswer() method.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MyGameZoneDemo_v1.TileMatchingGame4x4.Timer1_Tick(System.Object,System.EventArgs)">
+ <summary>
+ If the pair clicked by user is not matching,
+ then it hides it again.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:MyGameZoneDemo_v1.TileMatchingGame4x4.CheckAnswer">
+ <summary>
+ Checks if all the icons are matched or not. If yes, it tells the user.
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
